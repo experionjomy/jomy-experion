@@ -12,7 +12,7 @@ class fact
  			int s=s*i;
 			
 		}
-		// done
+		// done 1234
 		System.out.println(s);
 
 
