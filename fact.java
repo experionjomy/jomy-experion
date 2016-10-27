@@ -10,7 +10,7 @@ class fact
 		{
 			
  			int s=s*i;
-			// hi
+			// hi jomy
 		}
 		// done 1234
 		System.out.println(s);
